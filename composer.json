@@ -1,5 +1,5 @@
 {
-    "name": "quangbaort/base-repository-laravel",
+    "name": "quangbaort/baseRepository",
     "description": "Base repository implementation for Laravel",
     "keywords": [
       "laravel",
